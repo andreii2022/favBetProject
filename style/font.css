@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'WulkanDisplay';
-    src: url('../assets/fonts/WulkanDisplaySemiBoldItalic.ttf') format('truetype'),
-        url('../assets/fonts/WulkanDisplaySemiBoldItalic.woff') format('woff');
+    src: url('../resources/fonts/WulkanDisplaySemiBoldItalic.ttf') format('truetype'),
+        url('../resources/fonts/WulkanDisplaySemiBoldItalic.woff') format('woff');
     font-style: italic;
     font-weight: 600;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'SuisseIntl';
-    src: url('../assets/fonts/SuisseIntlSemiBold.ttf') format('truetype'),
-        url('../assets/fonts/SuisseIntlSemiBold.woff') format('woff');
+    src: url('../resources/fonts/SuisseIntlSemiBold.ttf') format('truetype'),
+        url('../resources/fonts/SuisseIntlSemiBold.woff') format('woff');
     font-style: normal;
     font-weight: 600;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'SuisseIntl';
-    src: url('../assets/fonts/SuisseIntlMedium.ttf') format('truetype'),
-        url('../assets/fonts/SuisseIntlMedium.woff') format('woff');
+    src: url('../resources/fonts/SuisseIntlMedium.ttf') format('truetype'),
+        url('../resources/fonts/SuisseIntlMedium.woff') format('woff');
     font-style: normal;
     font-weight: 500;
     font-display: swap;

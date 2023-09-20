@@ -80,7 +80,7 @@ html {
         transform: translateX(-50%);
         width: 205px;
         height: 204px;
-        background: url("../assets/svg-main-bg/main-bg-item-1.svg") center center / contain no-repeat;
+        background: url("../resources/svg-main-bg/main-bg-item-1.svg") center center / contain no-repeat;
     }
 
     &__bg-item-2 {
@@ -88,7 +88,7 @@ html {
         right: -70px;
         width: 313px;
         height: 314px;
-        background: url("../assets/svg-main-bg/main-bg-item-2.svg") center center / contain no-repeat;
+        background: url("../resources/svg-main-bg/main-bg-item-2.svg") center center / contain no-repeat;
     }
 
     &__bg-item-3 {
@@ -96,7 +96,7 @@ html {
         bottom: 28px;
         width: 175px;
         height: 175px;
-        background: url("../assets/svg-main-bg/main-bg-item-3.svg") center center / contain no-repeat;
+        background: url("../resources/svg-main-bg/main-bg-item-3.svg") center center / contain no-repeat;
     }
 }
 

@@ -1,0 +1,807 @@
+@media (max-width: 1919.98px) {
+    .main {
+        gap: 78px;
+        padding: 0 135px 0 84px;
+
+        &__bg-item-1 {
+            width: 156px;
+            height: 155px;
+        }
+
+        &__bg-item-2 {
+            width: 233px;
+            height: 233px;
+        }
+
+        &__bg-item-3 {
+            width: 124px;
+            height: 124px;
+        }
+    }
+
+    .main-photo {
+        margin-top: 82px;
+
+        &__text-wrapper {
+            right: 38px;
+            bottom: 68px;
+        }
+
+        &__title {
+            font-size: 16px;
+            line-height: 137%;
+            letter-spacing: 0.48px;
+        }
+
+        &__subtitle {
+            font-size: 11px;
+            line-height: 181%;
+            letter-spacing: 0.66px;
+        }
+    }
+
+    .main-content {
+        margin-top: 64px;
+    }
+
+    .details {
+        gap: 30px;
+
+        &__date-time-wrapper {
+            width: 86px;
+        }
+
+        &__date,
+        &__time {
+            height: 46px;
+            font-size: 22px;
+            letter-spacing: 1.76px;
+        }
+
+        &__country {
+            font-size: 42px;
+            line-height: 119%;
+            letter-spacing: 1.26px;
+        }
+
+        &__country-wrapper {
+            gap: 16px;
+        }
+
+        &__country-svg-wrapper {
+            width: 53px;
+            height: 41px;
+        }
+
+        &__country-text {
+            font-size: 42px;
+            line-height: 119%;
+            letter-spacing: 0.84px;
+        }
+    }
+
+    .bonus {
+        margin-top: 62px;
+
+        &__text {
+            padding: 17px 19px;
+            font-size: 24px;
+            line-height: 111%;
+            letter-spacing: 0.96px;
+        }
+
+        &__sum {
+            margin-top: 15px;
+            font-size: 110px;
+            letter-spacing: 5.5px;
+        }
+    }
+
+    .button {
+        margin-top: 46px;
+
+        &__btn {
+            padding: 19px 56px;
+            font-size: 22px;
+            letter-spacing: 1.76px;
+        }
+    }
+
+    .more {
+        margin: 11px auto 0;
+
+        &__text {
+            font-size: 12px;
+            letter-spacing: 0.6px;
+        }
+    }
+
+    .footer {
+        padding: 35px 43px 35px 26px;
+
+        &__info-sum {
+            font-size: 55px;
+            line-height: 54%;
+            letter-spacing: 2.2px;
+        }
+
+        &__info-text {
+            font-size: 15px;
+            letter-spacing: 0.3px;
+        }
+
+        &__info-plus {
+            width: 42px;
+            height: 35px;
+            margin: 0 22px 0 19px;
+        }
+
+        &__pay {
+            gap: 20px;
+            margin: 0 41px 0 21px;
+        }
+
+        &__pay-link {
+            &_21 {
+                width: 40px;
+                height: 26px;
+            }
+
+            &_apple-pay {
+                width: 60px;
+                height: 28px;
+            }
+
+            &_g-pay {
+                width: 57px;
+                height: 22px;
+            }
+
+            &_visa {
+                width: 40px;
+                height: 26px;
+            }
+
+            &_mastercard {
+                width: 38px;
+                height: 22px;
+            }
+        }
+
+        &__app {
+            gap: 10px;
+        }
+
+        &__app-link {
+            &_app-store {
+                width: 120px;
+                height: 40px;
+            }
+
+            &_google-pay {
+                width: 135px;
+                height: 40px;
+            }
+        }
+    }
+}
+
+@media (max-width: 1365.98px) {
+    .main {
+        gap: 30px;
+        padding: 0 45px 0 0;
+        justify-content: space-between;
+
+        &__bg-item-1 {
+            width: 118px;
+            height: 117px;
+        }
+
+        &__bg-item-2 {
+            right: -40px;
+            width: 175px;
+            height: 175px;
+        }
+
+        &__bg-item-3 {
+            right: -35px;
+            width: 100px;
+            height: 100px;
+        }
+    }
+
+    .main-photo {
+        margin-top: 202px;
+        transform: translateX(-24px);
+
+        &__text-wrapper {
+            right: -205px;
+            bottom: 20px;
+        }
+    }
+
+    .main-content {
+        margin-top: 102px;
+    }
+
+    .details {
+        gap: 21px;
+
+        &__date-time-wrapper {
+            width: 72px;
+        }
+
+        &__date,
+        &__time {
+            height: 43px;
+            font-size: 17px;
+            letter-spacing: 1.02px;
+        }
+
+        &__country {
+            font-size: 44px;
+            line-height: 113%;
+            letter-spacing: 1.32px;
+        }
+
+        &__country-wrapper {
+            gap: 14px;
+        }
+
+        &__country-svg-wrapper {
+            width: 40px;
+            height: 31px;
+        }
+
+        &__country-text {
+            font-size: 44px;
+            line-height: 113%;
+            letter-spacing: 0.88px;
+        }
+    }
+
+    .bonus {
+        margin-top: 39px;
+
+        &__text {
+            padding: 11px 20px;
+            font-size: 20px;
+            line-height: 134.082%;
+            letter-spacing: 0.8px;
+        }
+
+        &__sum {
+            margin-top: 14px;
+            font-size: 100px;
+            line-height: 100%;
+            letter-spacing: 5px;
+        }
+    }
+
+    .button {
+        margin-top: 63px;
+    }
+
+    .more {
+        margin: 21px auto 0;
+    }
+
+    .footer {
+        padding: 23px 31px 19px 18px;
+
+        &__info-item {
+            gap: 10px;
+        }
+
+        &__info-sum {
+            font-size: 44px;
+            line-height: 51%;
+            letter-spacing: 1.76px;
+        }
+
+        &__info-text {
+            font-size: 14px;
+            line-height: 117%;
+        }
+
+        &__info-plus {
+            width: 40px;
+            height: 32px;
+            margin: 0 23px 0 15px;
+        }
+
+        &__pay {
+            gap: 5px;
+            margin: 0 25px 0 17px;
+        }
+
+        &__pay-link {
+            height: 15px;
+            width: calc(166px / 5);
+        }
+
+        &__app {
+            gap: 8px;
+        }
+
+        &__app-link {
+            &_app-store {
+                width: 90px;
+                height: 30px;
+            }
+
+            &_google-pay {
+                width: 101px;
+                height: 30px;
+            }
+        }
+    }
+}
+
+@media (max-width: 1023.98px) {
+    .logo {
+        right: 0;
+    }
+
+    .main {
+        flex-direction: column;
+        gap: 0;
+        padding: 0 75px;
+
+        &__bg-item-1 {
+            top: 170px;
+            left: 50px;
+            width: 156px;
+            height: 155px;
+            background: url("../resources/svg-main-bg/main-bg-item-768.svg") center center / contain no-repeat;
+
+        }
+
+        &__bg-item-2 {
+            top: auto;
+            right: -45px;
+            bottom: 57px;
+            width: 211px;
+            height: 211px;
+        }
+
+        &__bg-item-3 {
+            right: auto;
+            bottom: 108px;
+            left: -30px;
+            width: 150px;
+            height: 150px;
+        }
+    }
+
+    .main-photo {
+        margin-top: 122px;
+        transform: translateX(0);
+
+        &__picture {
+            display: flex;
+            justify-content: center;
+        }
+
+        &__text-wrapper {
+            max-width: 130px;
+            right: -30px;
+            bottom: 190px;
+        }
+
+        &__title {
+            font-size: 17px;
+            line-height: 117%;
+            letter-spacing: 0.51px;
+        }
+
+        &__subtitle {
+            font-size: 10px;
+            line-height: 144%;
+        }
+    }
+
+    .main-content {
+        margin-top: -65px;
+    }
+
+    .details {
+        position: absolute;
+        top: 30px;
+        left: 41px;
+        gap: 23px;
+
+        &__date-time-wrapper {
+            width: 65px;
+        }
+
+        &__date,
+        &__time {
+            height: 40px;
+            font-size: 16px;
+        }
+
+        &__country,
+        &__country-text {
+            font-size: 40px;
+        }
+
+        &__country-svg-wrapper {
+            width: 36px;
+            height: 28px;
+        }
+    }
+
+    .bonus {
+        margin-top: 0;
+
+        &__text {
+            padding: 12px 5px;
+            font-size: 32px;
+            line-height: 127%;
+            letter-spacing: 1.28px;
+        }
+
+        &__sum {
+            margin-top: 20px;
+            font-size: 120px;
+            line-height: 83%;
+            letter-spacing: 4.8px;
+        }
+    }
+
+    .button {
+        margin-top: 20px;
+
+        &__btn {
+            padding: 16px 50px;
+            letter-spacing: 1.32px;
+        }
+    }
+
+    .more {
+        margin: 10px auto 0;
+
+        &__text {
+            font-size: 14px;
+        }
+    }
+
+    .footer {
+        padding: 17px 20px 18px 14px;
+
+        &__info-item {
+            gap: 7px;
+        }
+
+        &__info-sum {
+            font-size: 26px;
+            line-height: 115%;
+            letter-spacing: 0.78px;
+        }
+
+        &__info-text {
+            font-size: 10px;
+        }
+
+        &__info-plus {
+            width: 24px;
+            height: 19px;
+            margin: 0 9px;
+        }
+
+        &__pay {
+            margin: 0 8px;
+        }
+
+        &__app {
+            gap: 5px;
+        }
+
+        &__app-link {
+            height: 28px;
+            width: calc(185px / 2);
+        }
+    }
+
+    .popup {
+        padding: 50px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .page {
+        height: 100%;
+    }
+
+    .logo {
+        top: 10px;
+        right: 10px;
+    }
+
+    .main {
+        padding: 0 16px;
+
+        &__bg-item-1 {
+            background: none;
+        }
+
+        &__bg-item-2 {
+            right: -35px;
+            bottom: 0;
+            width: 131px;
+            height: 131px;
+        }
+
+        &__bg-item-3 {
+            left: -17px;
+            bottom: 25%;
+            width: 68px;
+            height: 68px;
+        }
+    }
+
+    .main-photo {
+        margin-top: 114px;
+
+        &__text-wrapper {
+            max-width: 70px;
+            right: 0;
+            bottom: 89px;
+        }
+
+        &__title {
+            font-size: 9px;
+            line-height: 121%;
+            letter-spacing: 0.27px;
+        }
+
+        &__subtitle {
+            font-size: 6px;
+            line-height: 165%;
+            letter-spacing: 0.36px;
+        }
+    }
+
+    .main-content {
+        margin-top: -30px;
+        margin-bottom: 48px;
+    }
+
+    .details {
+        top: 45px;
+        left: 14px;
+        gap: 15px;
+
+        &__date-time-wrapper {
+            width: 45px;
+        }
+
+        &__date,
+        &__time {
+            height: 24px;
+            font-size: 12px;
+            letter-spacing: 0.96px;
+        }
+
+        &__country,
+        &__country-text {
+            font-size: 22px;
+            line-height: 109%;
+            letter-spacing: 0.66px;
+        }
+
+        &__country-svg-wrapper {
+            width: 26px;
+            height: 21px;
+        }
+    }
+
+    .bonus {
+        &__text {
+            padding: 10px 15px;
+            font-size: 19px;
+            line-height: 110%;
+            letter-spacing: 0.76px;
+        }
+
+        &__sum {
+            margin-top: 5px;
+            font-size: 70px;
+            line-height: 112%;
+            letter-spacing: 2.8px;
+        }
+    }
+
+    .button {
+        margin-top: 13px;
+
+        &__btn {
+            color: #005;
+
+            &::before,
+            &::after {
+                content: none;
+            }
+        }
+    }
+
+    .more {
+        &__text {
+            font-size: 14px;
+        }
+    }
+
+    .footer {
+        flex-wrap: wrap;
+        padding: 33px 16px 48px;
+
+        &__info {
+            width: 100%;
+            justify-content: center;
+            gap: 13px;
+        }
+
+        &__info-item {
+            flex-direction: column;
+            align-self: flex-start;
+            gap: 13px;
+        }
+
+        &__info-sum {
+            align-self: flex-start;
+            font-size: 42px;
+            line-height: 71%;
+            letter-spacing: 1.26px;
+        }
+
+        &__info-text {
+            font-size: 12px;
+        }
+
+        &__info-plus {
+            width: 30px;
+            height: 26px;
+            margin: 0;
+        }
+
+        &__pay {
+            margin: 48px 0 35px;
+            width: 100%;
+            gap: 13px;
+            justify-content: center;
+        }
+
+        &__pay-link {
+            height: 28px;
+            width: 100%;
+        }
+
+        &__app {
+            gap: 13px;
+        }
+
+        &__app-link {
+            height: 52px;
+            width: 100%;
+        }
+    }
+
+    .popup {
+        padding: 10px;
+        width: 90%;
+        transform: translate(-50%, -100%);
+    }
+}
+
+@media (max-width: 374.98px) {
+    .main {
+        &__bg-item-2 {
+            background: none;
+        }
+
+        &__bg-item-3 {
+            background: none;
+        }
+    }
+
+    .main-photo {
+        margin-top: 106px;
+
+        &__text-wrapper {
+            right: -15px;
+            bottom: 78px;
+        }
+
+        &__title {
+            font-size: 8px;
+        }
+
+        &__subtitle {
+            font-size: 5px;
+        }
+    }
+
+    .main-content {
+        margin-bottom: 37px;
+    }
+
+    .details {
+        top: 33px;
+        left: 16px;
+    }
+
+    .bonus {
+        &__text {
+            padding: 8px 10px;
+            font-size: 16px;
+            line-height: 112%;
+            letter-spacing: 0.64px;
+        }
+
+        &__sum {
+            margin-top: 0;
+            font-size: 58px;
+            line-height: 103%;
+            letter-spacing: 2.32px;
+        }
+    }
+
+    .button {
+        margin-top: 19px;
+
+        &__btn {
+            width: 100%;
+            padding: 16px;
+            font-size: 20px;
+        }
+    }
+
+    .more {
+        margin: 3px auto 0;
+
+        &__text {
+            font-size: 12px;
+            letter-spacing: 0.24px;
+        }
+    }
+
+    .footer {
+        padding: 28px 16px 41px;
+
+        &__info {
+            gap: 6px;
+        }
+
+        &__info-item {
+            gap: 11px;
+        }
+
+        &__info-sum {
+            font-size: 36px;
+        }
+
+        &__info-text {
+            font-size: 11px;
+            line-height: 109%;
+            letter-spacing: 0.22px;
+        }
+
+        &__pay {
+            margin: 40px 0 32px;
+            gap: 6px;
+        }
+
+        &__pay-link {
+            height: 23px;
+        }
+
+        &__app {
+            gap: 6px;
+        }
+
+        &__app-link {
+            height: 44px;
+        }
+    }
+}
